@@ -19,11 +19,13 @@ A simple, responsive tribute page dedicated to Dr. Jordan B. Peterson, showcasin
 ##  File Structure
 
 ─ index.html 
-# Main HTML page 
+Main HTML page 
+
 ─ styles.css 
-# CSS styling 
+CSS styling 
+
 ─ README.md 
-# Project documentation
+Project documentation
 
 
 ## Inspiration
