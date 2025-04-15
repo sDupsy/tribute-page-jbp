@@ -32,7 +32,7 @@ Project documentation
 This project was inspired by the freeCodeCamp Tribute Page challenge. It pays homage to Dr. Jordan B. Peterson and his global impact through psychology, public lectures, and literature.
 
 ## Live Demo
-You can see a live demo here (replace with your GitHub Pages or Netlify link if deployed).
+You can see a live demo here (https://sdupsy.github.io/tribute-page-jbp/).
 
 ## License
 This project is open-source and available under the MIT License.
