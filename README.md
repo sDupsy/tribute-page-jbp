@@ -2,9 +2,6 @@
 
 A simple, responsive tribute page dedicated to Dr. Jordan B. Peterson, showcasing key moments of his life, his influence, and selected quotes. This project was built using HTML and CSS as part of a front-end web development learning journey.
 
-##  Preview
-
-![Jordan B. Peterson](https://stream.org/wp-content/uploads/45739346364_08d7d26490_k-1.jpg)
 
 ##  Technologies Used
 
